@@ -4,6 +4,7 @@ body{
     max-width: 100%;
     display: flex;
     flex-direction: column;
+    position: relative;
 }
 
 body a {
@@ -515,5 +516,6 @@ footer p {
 
 #social a {
     margin-left: 20px;
-    
+    background-position-y: center;
+    background-position-x: center;
 }
