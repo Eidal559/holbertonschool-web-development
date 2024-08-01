@@ -434,7 +434,6 @@ header {
 
 .faq h1 {
     height: 75px;
-
     font-family: calibri;
     font-style: normal;
     font-weight: 300;
@@ -511,9 +510,10 @@ footer p {
 #social {
     display: flex;
     justify-content: space-between;
-    margin: 95px 240px 0 165px;
+    margin: 95px 10px 0 165px;
 }
 
 #social a {
     margin-left: 20px;
+    
 }
